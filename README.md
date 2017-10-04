@@ -12,4 +12,4 @@ The `dataset` table contains all the data you will need. Create and populate a n
 
 Create a view `agenda(worker_phone, worker_name, owner_phone, owner_name, dog_name, dog_age, distance, service_type, service_start, service_duration)` that shows the latest service for dogs and workers. The service_duration should be formatted as HH:MM:SS. The distance between owner and worker should be in miles. Use the provided gps_distance() function, which returns the distance in kilometers.
 
-Put all of your code in `solution.sql`, run it, and check your work with `php test.php`. YOUR CODE MUST BE IDEMPOTENT. Create a pull request and send us the link to it.
+Put all of your code in `solution.sql`, run it, and check your work with `php test.php`. YOUR CODE MUST BE IDEMPOTENT. Send us an email with a link to the solution or a zip
